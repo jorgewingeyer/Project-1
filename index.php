@@ -7,7 +7,7 @@
     <link href="css/estilos.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-
+//coment//
 <!-- CABECERA -->
 
 <h1> <span id="pz">Empesa</span> <span id="shop" lang="en">Free</span><br/> <span id="lema">Proyectos de empresa</span> </h1>
